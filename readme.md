@@ -37,8 +37,8 @@ python3 --version
 ## 📦 Clone This Repository
 
 ```bash
-git clone https://github.com/eyepop-ai/Voxel51-Medical-Collab.git
-cd Voxel51-Medical-Collab
+git clone https://github.com/eyepop-ai/Voxel51-Medical-Workshop
+cd Voxel51-Medical-Workshop
 ```
 
 ---
