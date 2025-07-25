@@ -56,3 +56,9 @@ If it opens a blank screen, try VS Code or use the classic notebook interface (`
 ## 🔐 API Keys
 
 For Notebook #2, you’ll need to paste your EyePop.ai API key. You can grab a key at https://www.eyepop.ai/
+
+---
+
+## Dataset
+
+https://huggingface.co/datasets/Voxel51/ARCADE_FO
